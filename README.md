@@ -14,3 +14,5 @@ Discombobulate - 6:39pm
 Harken - 6:51pm
 
 Ghast - 10:05pm
+
+Deployment - 9:17am
